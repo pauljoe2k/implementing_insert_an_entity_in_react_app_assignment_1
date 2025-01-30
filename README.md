@@ -17,7 +17,7 @@ Enhance the existing **Book Library** application by adding functionality to nav
 - **Form Fields:** Develop a form that includes the following input fields:
   - **Title** (Text Input)
   - **Author** (Text Input)
-  - **Description** (Textarea)
+  - **Description** (Textarea) 
   - **Cover Image URL** (URL Input)
 - **Buttons:**
 
